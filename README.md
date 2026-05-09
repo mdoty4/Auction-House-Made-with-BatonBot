@@ -2,7 +2,7 @@
 
 > **⚠️ Important Notice: This project was created by BatonBot, an agentic engineering tool, for demonstration purposes.**
 >
-> **BatonBot** is designed to chain prompts in a sequence and use specified agents for each one. This application showcases the capabilities of agentic engineering — where AI-driven agents work together in a coordinated pipeline to plan, architect, and build full-stack software applications autonomously. Each stage of this project was handled by a dedicated agent, with prompts chained together to ensure consistency, quality, and proper integration across all layers.
+> **BatonBot** is designed to chain prompts in a sequence and use specified agents for each one. This application showcases the capabilities of agentic engineering — where an AI-driven agents work together in a coordinated pipeline to plan, architect, and build full-stack software applications autonomously. Each stage of this project was handled by a dedicated agent, with prompts chained together to ensure consistency, quality, and proper integration across all layers.
 
 ## Overview
 
@@ -143,4 +143,4 @@ This project serves as a living demonstration of what agentic engineering can ac
 
 ## License
 
-ISC
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
